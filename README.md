@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">Meu nome é Caio!</p>
+<h2 align="left">Meu nome é Caio!</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim!</h2>
 
 ###
 
