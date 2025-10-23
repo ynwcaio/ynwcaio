@@ -23,17 +23,17 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero contrib
 ###
 
 <div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" height="50" alt="java logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="50" alt="java logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
+  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" height="50" alt="mysql logo"  />
   <img width="15" />
   <img src="https://img.icons8.com/color/512/spring-logo.png" height="50" alt="spring logo"  />
   <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2DuolUB6Lp4uJmajNd3v5IvXs5_KmG5OFw&s" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/hibernate/hibernate-original-wordmark.svg" height="50" alt="hibernate logo"  />
+  <img src="https://e7.pngegg.com/pngimages/154/543/png-clipart-brown-and-gray-geometric-illustration-hibernate-logo-icons-logos-emojis-tech-companies-thumbnail.png" height="50" alt="hibernate logo"/>
   <img width="15" />
 </div>
 
