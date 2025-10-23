@@ -25,15 +25,15 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero contrib
 <div align="left">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" height="50" alt="java logo"  />
   <img width="15" />
-  <img src="https://toppng.com/uploads/preview/mysql-logo-png-image-11660514413jvwkcjh4av.png" height="50" alt="mysql logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJp2aVq2_yL4lgoL4qbiVocx7nuwpb8DkRVA&s" height="50" alt="mysql logo"  />
   <img width="15" />
   <img src="https://img.icons8.com/color/512/spring-logo.png" height="50" alt="spring logo"  />
   <img width="15" />
-  <img src="https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png" height="50" alt="html5 logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh2DuolUB6Lp4uJmajNd3v5IvXs5_KmG5OFw&s" height="50" alt="css3 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/154/543/png-clipart-brown-and-gray-geometric-illustration-hibernate-logo-icons-logos-emojis-tech-companies-thumbnail.png" height="50" alt="hibernate logo"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQUCSAfBOjiuGWDZxEsm54094nLH09U-FOw&s" height="50" alt="hibernate logo"/>
   <img width="15" />
 </div>
 
