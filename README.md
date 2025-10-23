@@ -31,7 +31,7 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero contrib
   <img width="15" />
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="50" alt="css3 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png" height="70" alt="css3 logo"  />
   <img width="12" />
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQQUCSAfBOjiuGWDZxEsm54094nLH09U-FOw&s" height="50" alt="hibernate logo"/>
   <img width="15" />
