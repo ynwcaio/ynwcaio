@@ -27,7 +27,7 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero contrib
   <img width="15" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/mysql-icon.svg" height="50" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://img.icons8.com/color/512/spring-logo.svg" height="50" alt="spring logo"  />
+  <img src="https://img.icons8.com/color/512/spring-logo.png" height="50" alt="spring logo"  />
   <img width="15" />
   <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" height="50" alt="html5 logo"  />
   <img width="12" />
