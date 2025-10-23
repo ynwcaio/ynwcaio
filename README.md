@@ -27,7 +27,7 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero contrib
   <img width="15" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="15" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" height="50" alt="spring logo"  />
+  <img src="https://img.icons8.com/color/512/spring-logo.png" height="50" alt="spring logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="12" />
