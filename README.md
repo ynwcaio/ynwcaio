@@ -38,3 +38,14 @@ Acredito que a tecnologia tem o poder de transformar realidades, e quero contrib
 </div>
 
 ###
+
+
+### 📫 Contato
+<div>
+  <a href="mailto:caiogoncalvesp@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/caio-gon%C3%A7alves-pacheco-1294562b9/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</div>
