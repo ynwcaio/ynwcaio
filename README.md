@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Técnico em Informática, 17 anos, com forte interesse em programação e desenvolvimento de software. Minha jornada na área é motivada pela curiosidade e pelo desejo de criar soluções que realmente façam a diferença. Tenho focado meus estudos em Java e no ecossistema Spring Boot, buscando constantemente melhorar minhas práticas de desenvolvimento e ampliar meu domínio das ferramentas mais utilizadas no mercado.
+<p align="left">Técnico em Informática, 18 anos, com forte interesse em programação e desenvolvimento de software. Minha jornada na área é motivada pela curiosidade e pelo desejo de criar soluções que realmente façam a diferença. Tenho focado meus estudos em Java e no ecossistema Spring Boot, buscando constantemente melhorar minhas práticas de desenvolvimento e ampliar meu domínio das ferramentas mais utilizadas no mercado.
 
 Possuo experiência em projetos acadêmicos e pessoais, nos quais utilizei MySQL para gestão e manipulação de dados, sempre com o objetivo de construir aplicações funcionais e bem estruturadas. Além disso, valorizo a organização, o aprendizado contínuo e a busca por boas práticas no desenvolvimento de software.
 
